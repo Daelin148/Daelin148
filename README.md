@@ -6,10 +6,10 @@
 ### <div align="center">I'm Andrey, a python developer 👨‍💻 tryin' my best to become a backend guru 🚀</div>  
   
 
-- 🌱 I’m currently learning web scraping (BeautifulSoup4, Selenium)  
+- 📚 I’m currently learning web scraping (BeautifulSoup4, Selenium)  
   
 
-- ❓ I'm on my way finding dream job =)  
+- 🏢 I'm on my way finding dream job =)  
   
 
 <br/>  
